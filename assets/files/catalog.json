@@ -1,0 +1,121 @@
+{
+  "products" : [
+    {
+      "id": 1,
+      "name": "Poco M3 Pro",
+      "desc": "More Speed. More Everything",
+      "detail": "Xiaomi Poco M3 Pro 5G is a mid level smartphone that is good for basic usage and a bit gaming as well. It will feature the Dimensity 700 5G chipset. Gaming will not be a problem as long as you are playing on the low-mid level settings. The 4/6GB RAM in the phone will be good enough for multi-tasking and your apps will not hang, unless you are using your phone too heavily. There is a 5000 mAh battery in the phone which will be enough to last you more than a day.The cameras here might not be the best, but they’ll do a decent job. More on that once we get our hands on the device.Xiaomi Poco M3 Pro 5G will be a good phone at this price point and you can consider it if you like Xiaomi as a brand.",
+      "price": 260, 
+      "color": "#F9D71C",
+      "image": "https://i01.appmifile.com/webfile/globalimg/POCOpic/M3pro-yellow.png"
+    },
+    {
+      "id": 2,
+      "name": "Razer Blade 15",
+      "desc": "Higher FPS. Faster Displays. More Wins.",
+      "detail": "Just when you thought a gaming laptop couldn’t be any more beastly—introducing the new Razer Blade 15, now available with the new 11th Gen Intel® Core™ H Series processor and NVIDIA® GeForce RTX™ 30 Series GPUs for the most powerful gaming laptop graphics ever. Still boasting the fastest gaming laptop displays with refresh rates of up to 360 Hz and QHD 240 Hz (G-SYNC), enjoy unrivalled performance and speed housed in the thinnest 15” RTX gaming laptop chassis.",
+      "price": 1699, 
+      "color": "#47E10C",
+      "image": "https://assets2.razerzone.com/images/pnx.assets/f4cba4f86d3d423d823e325f46826481/thumbnail-blade15-base-model.png"
+    },
+    {
+      "id": 3,
+      "name": "OnePlus 9 Pro",
+      "desc": "Never Settle",
+      "detail": "The OnePlus 9 Pro is a legitimate flagship phone that is genuinely competitive with the best Android phones on the market — at least from a features and quality perspective. Yet in terms of market and mind share, it’s still destined to be a niche device for a small group of enthusiasts looking for a specific kind of elegance in their Android device.",
+      "price": 1069, 
+      "color": "#00A897",
+      "image": "https://images.dailyobjects.com/marche/product-images/1701/dailyobjects-i-dont-care-glass-case-cover-for-oneplus-9-pro-images/DailyObjects-I-Dont-Care-Glass-Case-Cover-For-OnePlus-9-Pro-view.png?tr=cm-pad_resize,w-412,h-490,dpr-2"
+    },
+    {
+      "id": 4,
+      "name": "Alienware X17 Laptop",
+      "desc": "LIMITLESSLY THIN. REMARKABLY ENGINEERED.",
+      "detail": "11th Gen Intel® Core™ i7 11800H. Windows 10 Home English. NVIDIA® GeForce RTX™ 3060 6GB GDDR6. 16GB DDR4 3200MHz. 256GB M.2 PCIe NVMe Solid State Drive. 17.3-in. display. Starting at 6.65 lbs",
+      "price": 2199, 
+      "color": "#CE181E",
+      "image": "https://i.dell.com/sites/csimages/Merchandizing_Imagery/all/alienware_laptop_category_page_mod02_x17.png"
+    },
+    {
+      "id": 5,
+      "name": "JBL Tune 760NC",
+      "desc": "Wireless Over-Ear NC Headphones",
+      "detail": "Your music, nothing else matters. Over-ear, super comfortable, powerful, the JBL Tune 760NC keep the promise. The active noise cancelling blocks unnecessary distractions to let you focus on what matters, for up to 35 hours. Not enough? Get an extra 2 hours of juice with only 5 minutes of charge. Lightweight and foldable to fit any adventure, the Tune 760NC can connect with two Bluetooth® devices simultaneously, so that you'll never miss a call on your phone while watching a video on your tablet. Immediately paired to your Android device with a tap, the JBL Tune 760NC offer hands-free management of calls and your device's voice-assistant. To endlessly extend the fun, just plug the JBL Tune 760NC with the included detachable cable. Choose the color that matches your mood and have fun!",
+      "price": 129, 
+      "color": "#ff6600",
+      "image": "https://www.jbl.com/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw6fde9f12/1.JBL_TUNE_760NC_Product%20Image_Hero_Black.png?sw=537&sfrm=png"
+    },
+    {
+      "id": 6,
+      "name": "iPhone 12 Pro",
+      "desc": "Even the little things are a big deal.",
+      "detail": "5G goes Pro. A14 Bionic rockets past every other smartphone chip. The Pro camera system takes low-light photography to the next level — with an even bigger jump on iPhone 12 Pro Max. And Ceramic Shield delivers four times better drop performance. Let’s see what this thing can do.",
+      "price": 999, 
+      "color": "#284659",
+      "image": "https://cdn.shopify.com/s/files/1/0405/5115/3830/products/iphone-12-pro-blue-hero_9258b92b-9f05-4e4e-bb22-a052540b1bcb.png?v=1607772249"
+    },
+    {
+      "id": 7,
+      "name": "PS5",
+      "desc": "Play Has No Limits",
+      "detail": "Experience lightning-fast loading with an ultra-high speed SSD, deeper immersion with support for haptic feedback, adaptive triggers and 3D Audio*, and an all-new generation of incredible PlayStation® games.",
+      "price": 1219, 
+      "color": "#0072ce",
+      "image": "https://gmedia.playstation.com/is/image/SIEPDC/playstation-5-with-dualsense-front-product-shot-01-ps5-en-30jul20?$1600px--t$"
+    },
+    {
+      "id": 7,
+      "name": "XBOX SERIES X",
+      "desc": "THE FASTEST MOST POWERFUL XBOX EVER",
+      "detail": "New generation console. New generation games. Embark on new adventures the way they’re meant to be experienced on the Xbox Series X. The Xbox Series X delivers sensationally smooth frame rates of up to 120FPS with the visual pop of HDR. Immerse yourself with sharper characters, brighter worlds, and impossible details with true-to-life 4K.",
+      "price": 500, 
+      "color": "#107c10",
+      "image": "https://compass-ssl.xbox.com/assets/f0/85/f085c120-d3d5-4424-8b70-eb25deaa326e.png?n=XBX_A-BuyBoxBGImage01-D.png"
+    },
+    {
+      "id": 8,
+      "name": "MSI Katana GF66",
+      "desc": "SHARPEN YOUR GAME",
+      "detail": "With the latest 11th Gen. Intel® Core™ i7 processors and powered by NVIDIA® GeForce RTX™ 30 series graphics, the Katana GF66 is optimized to unleash true performance during gameplay. The new Katana GF66 is built with the same exquisite craftsmanship used to forge a blade. Run at optimal performance and shine on the battlefield.",
+      "price": 1450, 
+      "color": "#ED2024",
+      "image": "https://storage-asset.msi.com/global/picture/image/feature/nb/GF/Katana-GF66/images/photo-1.png"
+    },
+    {
+      "id": 9,
+      "name": "RAZER ISKUR X",
+      "desc": "CORE GAMING COMFORT",
+      "detail": "If solid gaming performance stems from solid support, then make comfort your edge with the Razer Iskur X. It’s time to discover what essential support and comfort can bring to your game, with an ergonomic gaming chair designed for hardcore play.",
+      "price": 399, 
+      "color": "#47E10C",
+      "image": "https://manuals.plus/wp-content/uploads/2021/04/3830-1-EN-v3.png"
+    },
+    {
+      "id": 10,
+      "name": "MacBook Pro 16\"",
+      "desc": "The best for the brightest",
+      "detail": "Designed for those who defy limits and change the world, the 16-inch MacBook Pro is by far the most powerful notebook we have ever made. With an immersive Retina display, superfast processors, advanced graphics, the largest battery capacity ever in a MacBook Pro, Magic Keyboard, and massive storage, it's the ultimate pro notebook for the ultimate user.",
+      "price": 2399, 
+      "color": "#555555",
+      "image": "https://cdn.shopify.com/s/files/1/0392/5045/products/5_27b16025-cfcd-4eb4-a781-40c1f808d61c.png?v=1604822342"
+    },
+    {
+      "id": 11,
+      "name": "ThinkPad X1 Carbon",
+      "desc": "Power & portability in a premium package",
+      "detail": "The 14\" ThinkPad X1 Carbon Gen 9 laptop rolls out a host of new features that add convenience, improve technology, and enrich your experience—all while retaining an ultrathin and ultralight chassis. You’ll discover an impressive 16:10 display, a wider TouchPad, a larger battery for more time unplugged, and rear ventilation to improve efficiency. Plus, with the Intel® Evo® platform, you get a super-responsive device that’s ready whenever you need it.",
+      "price": 1500, 
+      "color": "#E1140A",
+      "image": "https://www.lenovo.com/medias/lenovo-laptop-thinkpad-x1-carbon-gen-9-14-subseries-hero.png?context=bWFzdGVyfHJvb3R8NjM3NDR8aW1hZ2UvcG5nfGg1Yy9oNDMvMTE2Mjg3NTE2MTgwNzgucG5nfDA1N2Y2ZjU4M2YwOGQ0OTFmMGI4Y2RlN2ZmYTQ4ZWJhZDljNTVlOTNkNTNjNmI2ZDM1ODNjODVmMGY5NGUyMTU"
+    },
+    {
+      "id": 12,
+      "name": "Galaxy Z Fold3 5G",
+      "desc": "Get ready to unfold your world",
+      "detail": "This is everything you'd want in a premium, durable, 5G smartphone.1 Then we made it unfold — revealing a massive screen so you can watch, work and play like never before.Stands up, stands out, unfolds. Go from compact to impact. Set the tone",
+      "price": 2750, 
+      "color": "#034EA2",
+      "image": "https://images.samsung.com/is/image/samsung/p6pim/pk/2108/gallery/pk-galaxy-z-fold3-f926-5g-sm-f926bzgdmea-477353742?$720_576_PNG$"
+    }
+  ]
+}
